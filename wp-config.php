@@ -30,17 +30,17 @@ define( 'DB_NAME', 'wp_zv' );
  * Ersetze benutzername_hier_einfuegen
  * mit deinem Datenbank-Benutzernamen.
  */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'wp_zv' );
 
 /**
  * Ersetze passwort_hier_einfuegen mit deinem Datenbank-Passwort.
  */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'AOnBj1lw-hhuSR5Z' );
 
 /**
  * Ersetze localhost mit der Datenbank-Serveradresse.
  */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '5.253.246.69' );
 
 /**
  * Der Datenbankzeichensatz, der beim Erstellen der
